@@ -1,0 +1,1 @@
+This is a scrapper app for Trulia that creates copy pastable data in the format of an airtable for tracking Real Estate listings. This is a quick and dirty method that was the fastest balance between saving time from data entry and building something quickly that accomplished my goal. 
