@@ -1,0 +1,7 @@
+{
+  "javascript.format.semicolons": "ignore",
+  "typescript.format.semicolons": "ignore",
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "prettier.semi": true,
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": false
+}

@@ -1,0 +1,97 @@
+{
+  "seoData": {
+    "@context": "http://schema.org",
+    "@type": ["RealEstateListing", "Place", "Offer"],
+    "name": "198 Main St",
+    "description": "For Sale: Pixie Boulangerie - A Beloved Great Barrington Bakery\r\n\r\nStep into a slice of European charm in the heart of Great Barrington. Pixie Boulangerie, a cherished community bakery, is now being offered for sale. A rare opportunity to own a thriving business with deep local roots and loyal following.\r\n\r\nFounded by baker Patrizia Barbagallo, Pixie Boulangerie is celebrated for its seasonal menu of handmade sourdough breads, babkas, tarts, galettes, and cookies, all crafted with authentic ingredients and time-honored methods. No additives, no shortcutsâ€''just pure, natural leavening and hearty, nourishing flavor in every bite.\r\n\r\n* Sale of Business and Fixtures, only. No Real Estate.",
+    "url": "https://www.trulia.com/home/198-main-st-great-barrington-ma-01230-2122978922",
+    "datePosted": "2025-05-08T21:12:51+00:00",
+    "mainEntityOfPage": "https://www.trulia.com/home/198-main-st-great-barrington-ma-01230-2122978922",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "198 Main St, Great Barrington, MA 01230",
+      "addressLocality": "Great Barrington",
+      "addressRegion": "MA",
+      "postalCode": "01230",
+      "addressCountry": "US"
+    },
+    "image": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/e8aab464b3a65dfe1a845e3739136bbb-full.jpg",
+    "containedInPlace": {
+      "@type": "Place",
+      "name": "Great Barrington, MA"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": 250000,
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.trulia.com/home/198-main-st-great-barrington-ma-01230-2122978922"
+    },
+    "itemOffered": {
+      "@type": "Residence",
+      "numberOfBedrooms": "Studio",
+      "numberOfBathroomsTotal": "0.5"
+    },
+    "seller": {
+      "@type": "RealEstateAgent",
+      "name": "Maggie C Merelle",
+      "telephone": "(413) 717-0717"
+    }
+  },
+  "listingDetails": {
+    "Interior Features": {
+      "Beds & Baths": {
+        "Number of Bathrooms": "1",
+        "Number of Bathrooms (half)": "1"
+      },
+      "Gas & Electric": {
+        "Electric": "100 Amp Service"
+      },
+      "Levels, Entrance, & Accessibility": {
+        "Accessibility": "Meets ADA, Handicap Access"
+      }
+    },
+    "Exterior Features": {
+      "Parking & Garage": {
+        "Other Parking": "Off Street",
+        "Parking": "Off Street"
+      },
+      "Water & Sewer": {
+        "Sewer": "Public Sewer"
+      }
+    },
+    "Days on Market": {
+      "Days on Market": "53"
+    },
+    "Property Information": {
+      "Property Type / Style": {
+        "Property Type": "Business Oppertunity",
+        "Property Subtype": "Business"
+      }
+    },
+    "Price & Status": {
+      "Price": {
+        "List Price": "$250,000"
+      },
+      "Status Change & Dates": {
+        "Possession Timing": "Close Of Escrow"
+      }
+    },
+    "Active Status": {
+      "MLS Status": "Active"
+    },
+    "Location": {
+      "Direction & Address": {
+        "City": "Great Barrington"
+      }
+    },
+    "Agent Information": {
+      "Listing Agent": {
+        "Listing ID": "246272"
+      }
+    },
+    "Miscellaneous": {
+      "Mls Number": "246272"
+    }
+  }
+}
